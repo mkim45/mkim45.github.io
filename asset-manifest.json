@@ -1,34 +1,39 @@
 {
   "files": {
     "main.css": "/static/css/main.c0e073fe.css",
-    "main.js": "/static/js/main.73421aa7.js",
+    "main.js": "/static/js/main.e61237a0.js",
     "static/media/Proteins5.png": "/static/media/Proteins5.b8fb3ce90a91b3c30f2f.png",
     "static/media/Proteins4.png": "/static/media/Proteins4.ed4fba59a8a7b6d6c2f9.png",
     "static/media/AboutMe.png": "/static/media/AboutMe.802903a0804b673ae835.png",
     "static/media/Science1.png": "/static/media/Science1.42f536ca05a3480addec.png",
     "static/media/Michael_Kim.png": "/static/media/Michael_Kim.232a10a78342d2deb5e5.png",
     "static/media/Wine.png": "/static/media/Wine.02c66668c1b759ac623b.png",
+    "static/media/ProductScreenshot1.png": "/static/media/ProductScreenshot1.65943f7f7b56edce65fe.png",
     "static/media/TFToolbox.png": "/static/media/TFToolbox.6bf66c6535caae500c3c.png",
     "static/media/Proteins1.png": "/static/media/Proteins1.ec8711d52522e40c7321.png",
     "static/media/BatteryTool.png": "/static/media/BatteryTool.ac07cb7674932c007a3b.png",
     "static/media/Proteins2.png": "/static/media/Proteins2.400841fcc91e6a6c4566.png",
     "static/media/I2MSComparison.png": "/static/media/I2MSComparison.6e6f2583108ca24f0c2a.png",
+    "static/media/Proteins7.png": "/static/media/Proteins7.3a0a18d896d5e53eb81a.png",
+    "static/media/ProductScreenshot2.png": "/static/media/ProductScreenshot2.ee31eec1d145232a3d83.png",
     "static/media/LabelFreeQuant.png": "/static/media/LabelFreeQuant.6c7f0aed454ed56a7b09.png",
     "static/media/Battery.png": "/static/media/Battery.4cd575b1734aaaa11252.png",
     "static/media/Proteins3.png": "/static/media/Proteins3.18ca63c5288df81367a7.png",
     "static/media/TeamfightTactics.jpeg": "/static/media/TeamfightTactics.43d4b0b1cf6cb644652a.jpeg",
+    "static/media/Black.jpg": "/static/media/Black.c01f601ba6861916ada2.jpg",
     "static/media/Inbound.png": "/static/media/Inbound.452519ae9c3c2fd95bb7.png",
     "static/media/BatteryWork.png": "/static/media/BatteryWork.0180036ebe9fdf302121.png",
     "static/media/NorthwesternWork.jpg": "/static/media/NorthwesternWork.59f0324c04be30246e5d.jpg",
     "static/media/Proteomics.jpg": "/static/media/Proteomics.9205082a92ad8ab57317.jpg",
     "static/media/GitHub.png": "/static/media/GitHub.019078d6231546358d0b.png",
     "static/media/LinkedInLogo.png": "/static/media/LinkedInLogo.79f1a5ba3ab05abb63a6.png",
+    "static/media/GateWork.jpeg": "/static/media/GateWork.7675168344e30b9b43f6.jpeg",
     "index.html": "/index.html",
     "main.c0e073fe.css.map": "/static/css/main.c0e073fe.css.map",
-    "main.73421aa7.js.map": "/static/js/main.73421aa7.js.map"
+    "main.e61237a0.js.map": "/static/js/main.e61237a0.js.map"
   },
   "entrypoints": [
     "static/css/main.c0e073fe.css",
-    "static/js/main.73421aa7.js"
+    "static/js/main.e61237a0.js"
   ]
 }
